@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.form-horizontal
+{
+border: 1px solid black;
+padding: 40px 15px;
+text-align: center;   
+    
+}
