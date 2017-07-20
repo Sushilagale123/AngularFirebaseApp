@@ -1,0 +1,38 @@
+{
+    
+    "student": [
+    
+    {
+    
+    "firstName":"Sushil",
+    "lastName":"Agale",
+    "company":"eclerx"
+},
+{
+    
+    "firstName":"Sumit",
+    "lastName":"Agale",
+    "company":"Cybage"
+}
+],
+ 
+    
+    "emp": [
+    
+    {
+    
+    "fName":"Sushil",
+    "lName":"Agale",
+    "dev":"sale"
+},
+{
+    
+    "fName":"Sumit",
+    "lName":"Agale",
+    "dev":"development"
+}
+]
+    
+    
+}
+
